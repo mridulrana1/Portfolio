@@ -1,0 +1,2882 @@
+.elementor-28 .elementor-element.elementor-element-1f7479fb>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-1f7479fb {
+    overflow: hidden;
+    z-index: 1;
+}
+
+.elementor-28 .elementor-element.elementor-element-1f7479fb>.elementor-shape-bottom .elementor-shape-fill {
+    fill: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-1f7479fb>.elementor-shape-bottom svg {
+    height: 150px;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-6ea847cf.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ea847cf.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-2be0ae44 {
+    text-align: left;
+}
+
+.elementor-28 .elementor-element.elementor-element-2be0ae44 img {
+    width: 12%;
+}
+
+.elementor-28 .elementor-element.elementor-element-e7aa69d .elementor-heading-title {
+    color: var( --e-global-color-e987638);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-0dbd5fa .elementor-heading-title {
+    font-family: "Philosopher", Sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-47cb1f5 {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-container {
+    text-align: left;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-prefix {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-strings,
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .typed-cursor {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-strings {
+    color: var( --e-global-color-primary);
+    padding: 0px 0px 0px 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-strings::after {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-suffix {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ec1ca1>.elementor-widget-container {
+    padding: 10px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button .elementor-align-icon-right {
+    margin-left: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button .elementor-align-icon-left {
+    margin-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button {
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    background-color: var( --e-global-color-primary);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.32);
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button:hover,
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button:focus {
+    color: var( --e-global-color-primary);
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button:hover svg,
+.elementor-28 .elementor-element.elementor-element-795aa6c0 .elementor-button:focus svg {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0>.elementor-widget-container {
+    margin: 0px 0px 0px -10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-795aa6c0 {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-e483431.elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-e483431.elementor-social-icon i {
+    color: #4AC459;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-e483431.elementor-social-icon svg {
+    fill: #4AC459;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-c057ac2.elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-c057ac2.elementor-social-icon i {
+    color: #0F92F0;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-c057ac2.elementor-social-icon svg {
+    fill: #0F92F0;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-0710124.elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-0710124.elementor-social-icon i {
+    color: #0077B5;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-0710124.elementor-social-icon svg {
+    fill: #0077B5;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-4fe7e39.elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-4fe7e39.elementor-social-icon i {
+    color: #E34033;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-repeater-item-4fe7e39.elementor-social-icon svg {
+    fill: #E34033;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 25px;
+    --grid-column-gap: 0px;
+    --grid-row-gap: 0px;
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-a87e65a>.elementor-widget-container {
+    margin: 0px 0px 0px 30px;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-30e0afd.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-30e0afd.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-30e0afd:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-30e0afd>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://jaysrocky.com/wp-content/uploads/2023/08/bb8ab874-0e6e-4c17-a225-858b42b38cb7.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-28 .elementor-element.elementor-element-30e0afd>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-30e0afd>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a540edc img {
+    width: 80%;
+}
+
+.elementor-28 .elementor-element.elementor-element-a540edc>.elementor-widget-container {
+    margin: 0px 0px -80px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-8809165 img {
+    width: 40%;
+}
+
+.elementor-28 .elementor-element.elementor-element-8809165 {
+    width: auto;
+    max-width: auto;
+    top: 19px;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-8809165 {
+    left: 147px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-8809165 {
+    right: 147px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5b2a000 .elementor-repeater-item-5d63b56.elementor-social-icon {
+    background-color: #0F92F0;
+}
+
+.elementor-28 .elementor-element.elementor-element-5b2a000 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 25px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+    width: auto;
+    max-width: auto;
+    top: 165px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5b2a000 .elementor-widget-container {
+    text-align: center;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-5b2a000 {
+    left: 51px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-5b2a000 {
+    right: 51px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1203a92 .elementor-repeater-item-5d63b56.elementor-social-icon {
+    background-color: #0F92F0;
+}
+
+.elementor-28 .elementor-element.elementor-element-1203a92 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 25px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+    width: auto;
+    max-width: auto;
+    top: 179px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1203a92 .elementor-widget-container {
+    text-align: center;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-1203a92 {
+    left: 390px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-1203a92 {
+    right: 390px;
+}
+
+.elementor-28 .elementor-element.elementor-element-69256a8 .elementor-repeater-item-5d63b56.elementor-social-icon {
+    background-color: #FF007B;
+}
+
+.elementor-28 .elementor-element.elementor-element-69256a8 {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+    width: auto;
+    max-width: auto;
+    top: 382px;
+}
+
+.elementor-28 .elementor-element.elementor-element-69256a8 .elementor-widget-container {
+    text-align: center;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-69256a8 {
+    left: 460px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-69256a8 {
+    right: 460px;
+}
+
+.elementor-28 .elementor-element.elementor-element-31c7198 .elementor-repeater-item-5d63b56.elementor-social-icon {
+    background-color: #F70000;
+}
+
+.elementor-28 .elementor-element.elementor-element-31c7198 {
+    --grid-template-columns: repeat(0, auto);
+    --icon-size: 20px;
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+    width: auto;
+    max-width: auto;
+    top: 395px;
+}
+
+.elementor-28 .elementor-element.elementor-element-31c7198 .elementor-widget-container {
+    text-align: center;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-31c7198 {
+    left: 38px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-31c7198 {
+    right: 38px;
+}
+
+.elementor-28 .elementor-element.elementor-element-bd8bd05>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-bd8bd05:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-bd8bd05>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-bd8bd05 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+    z-index: 2;
+}
+
+.elementor-28 .elementor-element.elementor-element-bd8bd05>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-f630ca1.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-f630ca1.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-f630ca1>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-f630ca1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-7c4ed92 img {
+    width: 80%;
+    max-width: 80%;
+    border-radius: 50% 50% 50% 50%;
+}
+
+.elementor-28 .elementor-element.elementor-element-7c4ed92:not( .elementor-widget-image) .elementor-widget-container {
+    -webkit-mask-image: url(https://jaysrocky.com/wp-content/plugins/elementor/assets//mask-shapes/circle.svg );
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.elementor-28 .elementor-element.elementor-element-7c4ed92.elementor-widget-image .elementor-widget-container img {
+    -webkit-mask-image: url(https://jaysrocky.com/wp-content/plugins/elementor/assets//mask-shapes/circle.svg );
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center center;
+    -webkit-mask-repeat: no-repeat;
+}
+
+.elementor-28 .elementor-element.elementor-element-c43325c img {
+    width: 70%;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-c43325c {
+    left: -423px;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-c43325c {
+    right: -423px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c43325c {
+    top: 185px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c43325c>.elementor-widget-container {
+    --e-transform-origin-x: center;
+    --e-transform-origin-y: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-b21f3e1 .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ead690 {
+    --lottie-container-width: 35%;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ead690>.elementor-widget-container {
+    margin: -35px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-e408014 .elementor-heading-title {
+    color: var( --e-global-color-e987638);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-e408014>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d9e5fb7 {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ad7af5 .elementor-button {
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    background-color: var( --e-global-color-primary);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-primary);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.32);
+}
+
+.elementor-28 .elementor-element.elementor-element-6ad7af5 .elementor-button:hover,
+.elementor-28 .elementor-element.elementor-element-6ad7af5 .elementor-button:focus {
+    color: var( --e-global-color-primary);
+    background-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ad7af5 .elementor-button:hover svg,
+.elementor-28 .elementor-element.elementor-element-6ad7af5 .elementor-button:focus svg {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-6ad7af5>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b012b6a>.elementor-shape-top .elementor-shape-fill {
+    fill: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-b012b6a>.elementor-shape-top svg {
+    height: 100px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b012b6a {
+    padding: 40px 0px 40px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1c6a33e {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-1c6a33e .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-180507a {
+    --lottie-container-width: 32%;
+}
+
+.elementor-28 .elementor-element.elementor-element-180507a>.elementor-widget-container {
+    margin: -35px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-f6a6b16 {
+    text-align: center;
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c4ba059:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-c4ba059>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #9401F300;
+}
+
+.elementor-28 .elementor-element.elementor-element-c4ba059 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 30px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c4ba059>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-85e03cb>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 20px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-85e03cb>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f>.elementor-container {
+    min-height: 300px;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-123621f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #8000D342;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f,
+.elementor-28 .elementor-element.elementor-element-123621f>.elementor-background-overlay {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 3px 3px 3px 3px;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-cdab19f.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-cdab19f.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-cdab19f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-background-slideshow {
+    border-radius: 18px 18px 18px 18px;
+}
+
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-cdab19f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-17ba350 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-17ba350 .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-09f9435 {
+    text-align: center;
+    color: #333333;
+    font-family: var( --e-global-typography-9cce1a6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-9cce1a6-font-size);
+    line-height: var( --e-global-typography-9cce1a6-line-height);
+    letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+    word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+}
+
+.elementor-28 .elementor-element.elementor-element-1b1d60c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 10px 0px 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1b1d60c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557>.elementor-container {
+    min-height: 300px;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-7a87557>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #8000D342;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557,
+.elementor-28 .elementor-element.elementor-element-7a87557>.elementor-background-overlay {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 3px 3px 3px 3px;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-8a9eb5d.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-8a9eb5d.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-8a9eb5d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-background-slideshow {
+    border-radius: 18px 18px 18px 18px;
+}
+
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-8a9eb5d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-604de32 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-604de32 .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-708b753 {
+    text-align: center;
+    color: #333333;
+    font-family: var( --e-global-typography-9cce1a6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-9cce1a6-font-size);
+    line-height: var( --e-global-typography-9cce1a6-line-height);
+    letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+    word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+}
+
+.elementor-28 .elementor-element.elementor-element-370fefa>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-370fefa>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf>.elementor-container {
+    min-height: 300px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-dc7d9cf>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #8000D342;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf,
+.elementor-28 .elementor-element.elementor-element-dc7d9cf>.elementor-background-overlay {
+    border-radius: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 3px 3px 3px 3px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-a20eca9.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-a20eca9.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-a20eca9:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-background-slideshow {
+    border-radius: 18px 18px 18px 18px;
+}
+
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a20eca9>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-0329c6f {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-0329c6f .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-3476792 {
+    text-align: center;
+    color: #333333;
+    font-family: var( --e-global-typography-9cce1a6-font-family), Sans-serif;
+    font-size: var( --e-global-typography-9cce1a6-font-size);
+    line-height: var( --e-global-typography-9cce1a6-line-height);
+    letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+    word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+}
+
+.elementor-28 .elementor-element.elementor-element-c187f90>.elementor-container {
+    min-height: 350px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c187f90:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-c187f90>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://jaysrocky.com/wp-content/uploads/2023/08/laptop_phone_clock_178806_1400x1050-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-28 .elementor-element.elementor-element-c187f90>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-c187f90 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a76c73e:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #CEA0E4 0%, #FFFFFF 100%);
+}
+
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated>.elementor-background-overlay {
+    opacity: 0.5;
+}
+
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated {
+    border-style: groove;
+    border-width: 3px 3px 3px 3px;
+    border-color: var( --e-global-color-primary);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-1b9dba4 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-42122c6:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-42122c6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-42122c6 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-42122c6>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-67cc47a {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-67cc47a .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-90b136f {
+    --lottie-container-width: 17%;
+}
+
+.elementor-28 .elementor-element.elementor-element-90b136f .e-lottie__container {
+    filter: brightness( 100%) contrast( 100%) saturate( 100%) blur( 0px) hue-rotate( 0deg);
+}
+
+.elementor-28 .elementor-element.elementor-element-90b136f>.elementor-widget-container {
+    margin: -28px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3ec906f {
+    --lottie-container-width: 18%;
+}
+
+.elementor-28 .elementor-element.elementor-element-3ec906f>.elementor-widget-container {
+    margin: -30px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5880c32:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-5880c32>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-5880c32 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 25px 0px;
+    z-index: 1;
+}
+
+.elementor-28 .elementor-element.elementor-element-5880c32>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-c2bffea>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c2bffea>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-container {
+    min-height: 500px;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9 {
+    border-style: none;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9,
+.elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-background-overlay {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9:hover {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-75b9874>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-75b9874>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dcb3030 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-dcb3030 .elementor-heading-title {
+    color: var( --e-global-color-primary);
+    font-family: "Philosopher", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-294c2d0 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dae91df .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d435694 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-bc54397 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-d8eeb8c .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-e37d86c .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-6ccc0ec .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-3245cb2>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3245cb2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-container {
+    min-height: 500px;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4 {
+    border-style: none;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4,
+.elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-background-overlay {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4:hover {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dd051ac>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-dd051ac>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-52c4de0 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-52c4de0 .elementor-heading-title {
+    color: #8000D3;
+    font-family: "Philosopher", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-52c4de0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 25px 0px 25px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-14c4b73 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-a63445c .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-371ff10 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-735243c .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4324ac9 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-86e3157 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-ef25932 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-411abbd .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-06e4e03>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-06e4e03>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d>.elementor-container {
+    min-height: 500px;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-481c53d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d {
+    border-style: none;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d,
+.elementor-28 .elementor-element.elementor-element-481c53d>.elementor-background-overlay {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d:hover {
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-37b4daf>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-37b4daf>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-2b1edaa {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-2b1edaa .elementor-heading-title {
+    color: #8000D3;
+    font-family: "Philosopher", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-2749767 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-92f92f3 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-80fbb66 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-96c2cb0 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 {
+    --e-icon-list-icon-size: 16px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-icon {
+    padding-right: 10px;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.elementor-28 .elementor-element.elementor-element-decb8f4 .elementor-icon-list-text {
+    color: #333333;
+    transition: color 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-c0ee9f6 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 80px 0px 80px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c0ee9f6>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-c0ee9f6>.elementor-shape-top .elementor-shape-fill {
+    fill: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-c0ee9f6>.elementor-shape-top svg {
+    height: 200px;
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-bc-flex-widget .elementor-28 .elementor-element.elementor-element-80de887.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-80de887.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-e0938da .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-9e9a083 {
+    --lottie-container-width: 30%;
+}
+
+.elementor-28 .elementor-element.elementor-element-9e9a083>.elementor-widget-container {
+    margin: -33px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-ecffd12 {
+    text-align: left;
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    width: var( --container-widget-width, 80%);
+    max-width: 80%;
+    --container-widget-width: 80%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-28 .elementor-element.elementor-element-b4827d1>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-b4827d1>.elementor-element-populated>.elementor-background-overlay,
+.elementor-28 .elementor-element.elementor-element-b4827d1>.elementor-background-slideshow {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b4827d1:hover>.elementor-element-populated,
+.elementor-28 .elementor-element.elementor-element-b4827d1:hover>.elementor-element-populated>.elementor-background-overlay {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b4827d1>.elementor-element-populated {
+    margin: 0px 10px 0px 0px;
+    --e-column-margin-right: 10px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 45%;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d .elementor-image-box-title {
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d>.elementor-widget-container {
+    padding: 20px 20px 20px 20px;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #E1D4EE6B 0%, #FFFFFF 90%);
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.19);
+}
+
+.elementor-28 .elementor-element.elementor-element-3c7476d:hover .elementor-widget-container {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #02010100 0%, #F2295B00 100%);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 45%;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab .elementor-image-box-title {
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab>.elementor-widget-container {
+    margin: 50px 0px 0px 0px;
+    padding: 20px 20px 20px 20px;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #E1D4EE6B 0%, #FFFFFF 90%);
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.19);
+}
+
+.elementor-28 .elementor-element.elementor-element-44833ab:hover .elementor-widget-container {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #02010100 0%, #F2295B00 100%);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 45%;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c .elementor-image-box-title {
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c>.elementor-widget-container {
+    margin: -50px 0px 0px 0px;
+    padding: 20px 20px 20px 20px;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #E1D4EE6B 0%, #FFFFFF 90%);
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.19);
+}
+
+.elementor-28 .elementor-element.elementor-element-b16538c:hover .elementor-widget-container {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #02010100 0%, #F2295B00 100%);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 45%;
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9>.elementor-widget-container {
+    padding: 20px 20px 20px 20px;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #E1D4EE6B 0%, #FFFFFF 90%);
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 4px 4px 10px 0px rgba(127.99999999999983, 0, 211.00000000000003, 0.19);
+}
+
+.elementor-28 .elementor-element.elementor-element-5c8cfe9:hover .elementor-widget-container {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #02010100 0%, #F2295B00 100%);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
+}
+
+.elementor-28 .elementor-element.elementor-element-de2c2d8:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-de2c2d8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://jaysrocky.com/wp-content/uploads/2023/08/Caure.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-28 .elementor-element.elementor-element-de2c2d8 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 50px 0px 50px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-de2c2d8>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-068fa63 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-068fa63 .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-bdeefe0 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-bdeefe0 .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-28 .elementor-element.elementor-element-717ac3e4:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-717ac3e4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-717ac3e4 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 40px 0px 60px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-717ac3e4>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-6f58bdec {
+    padding: 0px 0px 30px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4df2bac5 {
+    text-align: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-4df2bac5 .elementor-heading-title {
+    color: #000000;
+    font-family: "Jost", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-4df2bac5>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-c4655d3 {
+    --lottie-container-width: 25%;
+}
+
+.elementor-28 .elementor-element.elementor-element-c4655d3>.elementor-widget-container {
+    margin: -38px 0px 0px 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1d53b35b:not(.elementor-motion-effects-element-type-background),
+.elementor-28 .elementor-element.elementor-element-1d53b35b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAF7FE;
+}
+
+.elementor-28 .elementor-element.elementor-element-1d53b35b,
+.elementor-28 .elementor-element.elementor-element-1d53b35b>.elementor-background-overlay {
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-28 .elementor-element.elementor-element-1d53b35b {
+    box-shadow: 0px 0px 10px 0px rgba(145.99999999999997, 88, 230, 0.4);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-1d53b35b>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-61794bc9>.elementor-element-populated {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-61794bc9>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-72417586 {
+    text-align: left;
+}
+
+.elementor-28 .elementor-element.elementor-element-72417586 img {
+    width: 35%;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 10%;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-title {
+    margin-bottom: 0px;
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-description {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 10%;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f .elementor-image-box-title {
+    margin-bottom: 0px;
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.elementor-28 .elementor-element.elementor-element-11133e0f .elementor-image-box-description {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 10%;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29 .elementor-image-box-title {
+    margin-bottom: 0px;
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.elementor-28 .elementor-element.elementor-element-4f5d9b29 .elementor-image-box-description {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 10%;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277 .elementor-image-box-title {
+    margin-bottom: 0px;
+    font-family: "Philosopher", Sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.elementor-28 .elementor-element.elementor-element-4ca7f277 .elementor-image-box-description {
+    color: #333333;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+}
+
+.elementor-28 .elementor-element.elementor-element-48d27c8c {
+    --spacer-size: 30px;
+}
+
+.elementor-28 .elementor-element.elementor-element-34424957>.elementor-element-populated {
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-28 .elementor-element.elementor-element-2ae902e3 .elementor-heading-title {
+    font-family: "Jost", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group {
+    padding-right: calc( 10px/2);
+    padding-left: calc( 10px/2);
+    margin-bottom: 25px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-form-fields-wrapper {
+    margin-left: calc( -10px/2);
+    margin-right: calc( -10px/2);
+    margin-bottom: -25px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 0px;
+}
+
+body:not(.rtl) .elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 0px;
+}
+
+body .elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-type-html {
+    padding-bottom: 0px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group .elementor-field {
+    color: #333333;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group .elementor-field,
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-subgroup label {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #F2EBFC;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #F2EBFC;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .e-form__buttons__wrapper__button-next {
+    background-color: var( --e-global-color-primary);
+    color: #ffffff;
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-button[type="submit"] {
+    background-color: var( --e-global-color-primary);
+    color: #ffffff;
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-button[type="submit"] svg * {
+    fill: #ffffff;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .e-form__buttons__wrapper__button-previous {
+    color: #ffffff;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .e-form__buttons__wrapper__button-next:hover {
+    background-color: #02010100;
+    color: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-button[type="submit"]:hover {
+    background-color: #02010100;
+    color: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .elementor-button[type="submit"]:hover svg * {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 .e-form__buttons__wrapper__button-previous:hover {
+    color: #ffffff;
+}
+
+.elementor-28 .elementor-element.elementor-element-3dfbebe9 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px;
+}
+
+@media(min-width:768px) {
+    .elementor-28 .elementor-element.elementor-element-80de887 {
+        width: 40%;
+    }
+    .elementor-28 .elementor-element.elementor-element-b4827d1 {
+        width: 60%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-28 .elementor-element.elementor-element-6ea847cf {
+        width: 50%;
+    }
+    .elementor-28 .elementor-element.elementor-element-30e0afd {
+        width: 50%;
+    }
+    .elementor-28 .elementor-element.elementor-element-1eb0523b {
+        width: 100%;
+    }
+    .elementor-28 .elementor-element.elementor-element-42263bc0 {
+        width: 100%;
+    }
+}
+
+@media(min-width:1025px) {
+    .elementor-28 .elementor-element.elementor-element-30e0afd:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+    .elementor-28 .elementor-element.elementor-element-30e0afd>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+    .elementor-28 .elementor-element.elementor-element-c187f90:not(.elementor-motion-effects-element-type-background),
+    .elementor-28 .elementor-element.elementor-element-c187f90>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+    .elementor-28 .elementor-element.elementor-element-de2c2d8:not(.elementor-motion-effects-element-type-background),
+    .elementor-28 .elementor-element.elementor-element-de2c2d8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-28 .elementor-element.elementor-element-1f7479fb {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-795aa6c0>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-a87e65a {
+        --icon-size: 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-a87e65a>.elementor-widget-container {
+        margin: 0px 0px 0px 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-a540edc>.elementor-widget-container {
+        margin: 0px 0px -114px 0px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-8809165 {
+        left: 76px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-8809165 {
+        right: 76px;
+    }
+    .elementor-28 .elementor-element.elementor-element-8809165 {
+        top: -12px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-5b2a000 {
+        left: 7px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-5b2a000 {
+        right: 7px;
+    }
+    .elementor-28 .elementor-element.elementor-element-5b2a000 {
+        top: 149px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-1203a92 {
+        left: 295px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-1203a92 {
+        right: 295px;
+    }
+    .elementor-28 .elementor-element.elementor-element-1203a92 {
+        top: 246px;
+    }
+    .elementor-28 .elementor-element.elementor-element-69256a8 {
+        width: var( --container-widget-width, 46px);
+        max-width: 46px;
+        --container-widget-width: 46px;
+        --container-widget-flex-grow: 0;
+        top: 117px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-69256a8 {
+        left: 250px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-69256a8 {
+        right: 250px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-31c7198 {
+        left: 46px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-31c7198 {
+        right: 46px;
+    }
+    .elementor-28 .elementor-element.elementor-element-31c7198 {
+        top: 283px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-c43325c {
+        left: -250px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-c43325c {
+        right: -250px;
+    }
+    .elementor-28 .elementor-element.elementor-element-c43325c {
+        top: 100px;
+    }
+    .elementor-28 .elementor-element.elementor-element-c4ba059 {
+        padding: 0px 30px 30px 30px;
+    }
+    .elementor-28 .elementor-element.elementor-element-09f9435 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-708b753 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-3476792 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-a76c73e>.elementor-element-populated {
+        margin: 0px 20px 0px 20px;
+        --e-column-margin-right: 20px;
+        --e-column-margin-left: 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-90b136f {
+        --lottie-container-width: 20%;
+    }
+    .elementor-28 .elementor-element.elementor-element-38f31b9>.elementor-container {
+        min-height: 500px;
+    }
+    .elementor-28 .elementor-element.elementor-element-8aa4cc4>.elementor-container {
+        min-height: 500px;
+    }
+    .elementor-28 .elementor-element.elementor-element-52c4de0>.elementor-widget-container {
+        padding: 17px 0px 16px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-481c53d>.elementor-container {
+        min-height: 500px;
+    }
+    .elementor-28 .elementor-element.elementor-element-80de887>.elementor-element-populated {
+        padding: 0px 0px 0px 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-44833ab>.elementor-widget-container {
+        margin: 20px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-b16538c>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-1eb0523b.elementor-column>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-28 .elementor-element.elementor-element-42263bc0.elementor-column>.elementor-widget-wrap {
+        justify-content: center;
+    }
+    .elementor-28 .elementor-element.elementor-element-72417586 {
+        text-align: center;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-28 .elementor-element.elementor-element-1f7479fb>.elementor-shape-bottom svg {
+        height: 80px;
+    }
+    .elementor-28 .elementor-element.elementor-element-1f7479fb {
+        padding: 50px 20px 0px 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-6ea847cf>.elementor-element-populated {
+        margin: 50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-prefix {
+        font-size: 25px;
+    }
+    .elementor-28 .elementor-element.elementor-element-6ec1ca1 .eael-fancy-text-strings,
+    .elementor-28 .elementor-element.elementor-element-6ec1ca1 .typed-cursor {
+        font-size: 18px;
+    }
+    .elementor-28 .elementor-element.elementor-element-6ec1ca1>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-a540edc>.elementor-widget-container {
+        margin: 0px 0px -50px 0px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-8809165 {
+        left: 48px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-8809165 {
+        right: 48px;
+    }
+    .elementor-28 .elementor-element.elementor-element-8809165 {
+        top: -9px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-69256a8 {
+        left: 224px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-69256a8 {
+        right: 224px;
+    }
+    .elementor-28 .elementor-element.elementor-element-69256a8 {
+        top: 71px;
+    }
+    body:not(.rtl) .elementor-28 .elementor-element.elementor-element-c43325c {
+        left: -207px;
+    }
+    body.rtl .elementor-28 .elementor-element.elementor-element-c43325c {
+        right: -207px;
+    }
+    .elementor-28 .elementor-element.elementor-element-c43325c {
+        top: 3px;
+    }
+    .elementor-28 .elementor-element.elementor-element-0b5ae75>.elementor-element-populated {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-4ead690 {
+        --lottie-container-width: 60%;
+    }
+    .elementor-28 .elementor-element.elementor-element-180507a {
+        --lottie-container-width: 65%;
+    }
+    .elementor-28 .elementor-element.elementor-element-180507a>.elementor-widget-container {
+        margin: -25px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-85e03cb>.elementor-element-populated {
+        padding: 0px 0px 30px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-09f9435 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-1b1d60c>.elementor-element-populated {
+        padding: 0px 0px 30px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-708b753 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-370fefa>.elementor-element-populated {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-3476792 {
+        font-size: var( --e-global-typography-9cce1a6-font-size);
+        line-height: var( --e-global-typography-9cce1a6-line-height);
+        letter-spacing: var( --e-global-typography-9cce1a6-letter-spacing);
+        word-spacing: var( --e-global-typography-9cce1a6-word-spacing);
+    }
+    .elementor-28 .elementor-element.elementor-element-42122c6 {
+        padding: 30px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-67cc47a .elementor-heading-title {
+        font-size: 30px;
+    }
+    .elementor-28 .elementor-element.elementor-element-5880c32 {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-80de887>.elementor-element-populated {
+        padding: 0px 20px 0px 20px;
+    }
+    .elementor-28 .elementor-element.elementor-element-9e9a083 {
+        --lottie-container-width: 40%;
+    }
+    .elementor-28 .elementor-element.elementor-element-3c7476d .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-44833ab .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-44833ab>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-b16538c .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-b16538c>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-5c8cfe9 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-6f58bdec {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-4df2bac5>.elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-c4655d3 {
+        --lottie-container-width: 75%;
+    }
+    .elementor-28 .elementor-element.elementor-element-c4655d3>.elementor-widget-container {
+        margin: -30px 0px 0px 0px;
+    }
+    .elementor-28 .elementor-element.elementor-element-72417586 img {
+        width: 40%;
+    }
+    .elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-wrapper {
+        text-align: center;
+    }
+    .elementor-28 .elementor-element.elementor-element-13bc6a57 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-11133e0f .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-4f5d9b29 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+    .elementor-28 .elementor-element.elementor-element-4ca7f277 .elementor-image-box-img {
+        margin-bottom: 15px;
+    }
+}
+
+/* Start custom CSS for section, class: .elementor-element-123621f */
+
+:root {
+    --first-color: #8000d3;
+    --second-color: #520201;
+    --size: 100px;
+    --speed: 4s;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f {
+    overflow: hidden !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-123621f:before {
+    content: '';
+    position: absolute;
+    width: var(--size);
+    height: 140%;
+    background: linear-gradient(var(--first-color), var(--second-color));
+    animation: animate var(--speed) linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-7a87557 */
+
+:root {
+    --first-color: #8000d3;
+    --second-color: #520201;
+    --size: 100px;
+    --speed: 4s;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557 {
+    overflow: hidden !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-7a87557:before {
+    content: '';
+    position: absolute;
+    width: var(--size);
+    height: 140%;
+    background: linear-gradient(var(--first-color), var(--second-color));
+    animation: animate var(--speed) linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-dc7d9cf */
+
+:root {
+    --first-color: #8000d3;
+    --second-color: #520201;
+    --size: 100px;
+    --speed: 4s;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf {
+    overflow: hidden !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-dc7d9cf:before {
+    content: '';
+    position: absolute;
+    width: var(--size);
+    height: 140%;
+    background: linear-gradient(var(--first-color), var(--second-color));
+    animation: animate var(--speed) linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-38f31b9 */
+
+.elementor-28 .elementor-element.elementor-element-38f31b9 {
+    --first-color: green;
+    --second-color#red;
+    --third-color: #8000d3;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9::before,
+.elementor-28 .elementor-element.elementor-element-38f31b9::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9::before,
+.elementor-28 .elementor-element.elementor-element-38f31b9:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient( var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 2.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9::before {
+    width: 104%;
+    height: 104%;
+    border-radius: 8px;
+    top: -2%;
+    left: -2%;
+}
+
+.elementor-28 .elementor-element.elementor-element-38f31b9::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-8aa4cc4 */
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4 {
+    --first-color: #5ddcff;
+    --second-color#7f007f;
+    --third-color: #8000d3;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4::before,
+.elementor-28 .elementor-element.elementor-element-8aa4cc4::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4::before,
+.elementor-28 .elementor-element.elementor-element-8aa4cc4:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient( var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 2.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4::before {
+    width: 104%;
+    height: 104%;
+    border-radius: 8px;
+    top: -2%;
+    left: -2%;
+}
+
+.elementor-28 .elementor-element.elementor-element-8aa4cc4::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
+
+/* Start custom CSS for section, class: .elementor-element-481c53d */
+
+.elementor-28 .elementor-element.elementor-element-481c53d {
+    --first-color: #5ddcff;
+    --second-color#7f007f;
+    --third-color: #8000d3;
+}
+
+@property --rotate {
+    syntax: "<angle>";
+    initial-value: 132deg;
+    inherits: false;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d::before,
+.elementor-28 .elementor-element.elementor-element-481c53d::after {
+    opacity: 0;
+    content: "";
+    transition: all 0.5s ease-in-out;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d::before,
+.elementor-28 .elementor-element.elementor-element-481c53d:hover::after {
+    position: absolute;
+    z-index: -1;
+    background-image: linear-gradient( var(--rotate), var(--first-color), var(--second-color) 43%, var(--third-color));
+    animation: spin 2.5s linear infinite;
+    opacity: 1;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d::before {
+    width: 104%;
+    height: 104%;
+    border-radius: 8px;
+    top: -2%;
+    left: -2%;
+}
+
+.elementor-28 .elementor-element.elementor-element-481c53d::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+    filter: blur(70px);
+}
+
+@keyframes spin {
+    0% {
+        --rotate: 0deg;
+    }
+    100% {
+        --rotate: 360deg;
+    }
+}
+
+/* End custom CSS */
